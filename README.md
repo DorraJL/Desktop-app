@@ -1,2 +1,2 @@
 # Mini_Projet
-Application Desktop pour la gestion de Municipalité de Bizerte 
+Application Desktop pour la gestion du Municipalité de Bizerte 
